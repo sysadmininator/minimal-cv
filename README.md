@@ -53,5 +53,5 @@ You can (and should) edit the `.html` files for adding your own information, ico
 
 # Credits
 
-- [Mauricio Murraco](https://github.com/mauriurraco)
+- [Mauricio Urraco](https://github.com/murraco)
 - [Nathan Randecker](https://github.com/nrandecker)
