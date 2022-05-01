@@ -48,8 +48,6 @@ You can (and should) edit the `.html` files for adding your own information, ico
 
 - Report issues
 - Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
 
 # Credits
 
