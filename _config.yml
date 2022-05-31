@@ -15,7 +15,7 @@ email: jobops@sysadmininator.com
 linkedin_username: andrew-reeves-a1a10316b
 github_username:  sysadmininator
 # medium_username: lorem_ipsum
-medium_url: "https://sysadmininator.com/assets/Andrew Reeves - Resume.pdf"
+medium_url: "sysadmininator.com/assets/Andrew Reeves - Resume.pdf"
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
